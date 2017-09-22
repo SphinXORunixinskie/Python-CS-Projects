@@ -1,0 +1,11 @@
+Average Wait   1.05 secs   0 tasks remaining.
+Average Wait   1.64 secs   0 tasks remaining.
+Average Wait   0.30 secs   0 tasks remaining.
+Average Wait   0.00 secs   0 tasks remaining.
+Average Wait   0.00 secs   0 tasks remaining.
+Average Wait   0.00 secs   0 tasks remaining.
+Average Wait   1.20 secs   0 tasks remaining.
+Average Wait   0.00 secs   0 tasks remaining.
+Average Wait   2.50 secs   0 tasks remaining.
+Average Wait   1.41 secs   1 tasks remaining.
+Average wait time of all simulations: 0.8096560846560846
