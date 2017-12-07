@@ -1,8 +1,0 @@
-1. Read data line by line 
-2. Break up data and assign it orderly to a dictonary 
-3. Set that dictionary in a bigger dictionary 
-4. Repeat for all the lines in the file
-6. Search key term
-7. Go through all the dictionary contents for each dictionary and if the data is in there:
-note down dictionary ID
-8. Go through all the results and print the data 
